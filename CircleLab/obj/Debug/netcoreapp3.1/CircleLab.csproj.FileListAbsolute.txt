@@ -1,0 +1,5 @@
+C:\Users\brand\source\repos\CircleLab\CircleLab\obj\Debug\netcoreapp3.1\CircleLab.csproj.AssemblyReference.cache
+C:\Users\brand\source\repos\CircleLab\CircleLab\obj\Debug\netcoreapp3.1\CircleLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\source\repos\CircleLab\CircleLab\obj\Debug\netcoreapp3.1\CircleLab.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\CircleLab\CircleLab\obj\Debug\netcoreapp3.1\CircleLab.AssemblyInfo.cs
+C:\Users\brand\source\repos\CircleLab\CircleLab\obj\Debug\netcoreapp3.1\CircleLab.csproj.CoreCompileInputs.cache
